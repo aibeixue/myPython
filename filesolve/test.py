@@ -1,4 +1,5 @@
 import os
+import wx
 
 #获取当前目录下的所有待处理的文件
 def getFile(dir):
