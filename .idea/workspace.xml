@@ -2,20 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="363ddc98-1d27-4319-86bb-4b2b33bc3d0d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/classstudy/mixIn多继承.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classstudy/slots限制实例属性的绑定.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classstudy/定制类.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classstudy/枚举类.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classstudy/装饰器@property.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/filesolve/25.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/filesolve/debug.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/filesolve/demo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/filesolve/flower.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/filesolve/one.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/filesolve/testwx.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/filesolve/two.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files/r28f0018.nc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files/r28f0019.nc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files/r28f0020.nc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files/r28f0021.nc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/filesolve/filePath.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/filesolve/mainFrame.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/filesolve/saveFile.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/filesolve/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/filesolve/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/filesolve/aaaassss.nc" beforeDir="false" afterPath="$PROJECT_DIR$/files/r2332.nc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/filesolve/debug.txt" beforeDir="false" afterPath="$PROJECT_DIR$/filesolve/fileDialog1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/filesolve/r2332.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/filesolve/r28f0018.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/filesolve/r28f0019.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/filesolve/r28f0020.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/filesolve/r28f0021.nc" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -55,28 +56,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.two">
-    <configuration name="定制类" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="myPython" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/classstudy" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/classstudy/定制类.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.filePath">
     <configuration name="文件读写" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="myPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -119,7 +99,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="noname" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="filePath" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="myPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -131,7 +111,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/filesolve/noname.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/filesolve/filePath.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -140,7 +120,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="one" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="filedialog" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="myPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/wxpython" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/wxpython/filedialog.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="testwx" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="myPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -152,7 +153,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/filesolve/one.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/filesolve/testwx.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -182,34 +183,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="wx1" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="myPython" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/filesolve" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/filesolve/wx1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.filePath" />
+        <item itemvalue="Python.testwx" />
         <item itemvalue="Python.two" />
-        <item itemvalue="Python.one" />
         <item itemvalue="Python.demo" />
-        <item itemvalue="Python.noname" />
-        <item itemvalue="Python.wx1" />
+        <item itemvalue="Python.filedialog" />
       </list>
     </recent_temporary>
   </component>
