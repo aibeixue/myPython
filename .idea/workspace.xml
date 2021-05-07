@@ -2,21 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="363ddc98-1d27-4319-86bb-4b2b33bc3d0d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/files/r28f0018.nc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/files/r28f0019.nc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/files/r28f0020.nc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/files/r28f0021.nc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/filesolve/filePath.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/filesolve/mainFrame.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/filesolve/saveFile.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/filesolve/aaaassss.nc" beforeDir="false" afterPath="$PROJECT_DIR$/files/r2332.nc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/filesolve/debug.txt" beforeDir="false" afterPath="$PROJECT_DIR$/filesolve/fileDialog1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/filesolve/r2332.nc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/filesolve/r28f0018.nc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/filesolve/r28f0019.nc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/filesolve/r28f0020.nc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/filesolve/r28f0021.nc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/filesolve/filePath.py" beforeDir="false" afterPath="$PROJECT_DIR$/filesolve/filePath.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
