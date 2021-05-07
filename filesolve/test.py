@@ -32,8 +32,6 @@ def modifyAndSave(dir):
                     lineStr = '\n'.join([str(s) for s in lines])
                     mlist[i] = lineStr
     #把处理好的数据，写入文件
-    # dir1 = dir.split('.')[0]
-    # dir2 = f'{dir1}.nc'
     with open(dir, 'w') as f2:
         text2 = ''.join([str(i) for i in mlist])
         f2.write(text2)
@@ -47,7 +45,7 @@ if __name__ == '__main__':
     for flie in files:
         fileDir=f'{dir}\\\{flie}.nc'
         modifyAndSave(fileDir)
-    pass
+
 
 
 
